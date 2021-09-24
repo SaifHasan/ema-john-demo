@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+}
+
+.img img {
+    height: 200px;
+    margin-right: 10px;
+}
+
+.product-detail {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+    margin-right: 5px;
+    text-align: justify;
+}
+
+#heading {
+    color: blue;
+}
+
+button {
+    background-color: #ff9800;
+    /* border: #d8d2ca; */
+    width: 146px;
+    padding: 5px;
+    border-radius: 2px;
+    border-color: #deded9;
+    border-style: none;
+    cursor: pointer;
+}
